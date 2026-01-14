@@ -113,10 +113,15 @@ Choose the desired option and follow the instructions.
 
 ## 🎥 Project Demo Video
 
-📺 **YouTube Demo:**
-👉 *Coming Soon*
-*A full project explanation and live demo will be uploaded.*
+A complete video explanation and live demonstration of this project is available below:
 
+▶️ **Watch the demo video (OneDrive):**  
+https://1drv.ms/v/c/b7ea1080b971ad62/IQCmxJ_McOeVToedqIng-J6kAZ84sxtKtG-Z8yiLriWm0tw?e=HSkL5Q
+
+This video includes:
+- Project overview
+- Explanation of Python file handling
+- Live demo of create, read, update, and delete operations
 ---
 
 ## 🎯 Learning Outcomes
